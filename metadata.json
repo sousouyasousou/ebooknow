@@ -1,0 +1,5 @@
+{
+  "name": "Secure Ebook Downloader",
+  "description": "A minimalist, secure landing page for digital ebook downloads with a simulated robot verification step.",
+  "requestFramePermissions": []
+}
